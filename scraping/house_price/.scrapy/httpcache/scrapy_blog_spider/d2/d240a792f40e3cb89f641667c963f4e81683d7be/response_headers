@@ -1,0 +1,17 @@
+Server: nginx
+Date: Sat, 06 Nov 2021 19:37:47 GMT
+Content-Type: text/html;charset=UTF-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding,User-Agent
+Set-Cookie: r2abtest_cid=617c80f4bb243d8acb5e7247815f102890999401; Expires=Thu, 24-Nov-2089 22:51:54 GMT; Path=/
+Set-Cookie: r2abtest_fr="202111070435:TEST_SPFRxxxx,1,TC_A:TEST_SPFR908,1,TC_B"; Version=1; Max-Age=2147483647; Path=/
+Set-Cookie: R2_F_S_1=fb6389865bd3597b6edf0840f6bc8c7f; Domain=.suumo.jp; Path=/
+Set-Cookie: R2_F_P_1=1afece5cbb29b2a5; Domain=.suumo.jp; Expires=Mon, 06-Dec-2021 19:37:47 GMT; Path=/
+Set-Cookie: ar=030; Expires=Sat, 13-Nov-2021 19:37:47 GMT; Path=/
+Set-Cookie: R2_F_S_1=fb6389865bd3597b539e14435170fb7a; Domain=.suumo.jp; Path=/
+Set-Cookie: R2_F_P_1=1afece5cbb29b2a5; Domain=.suumo.jp; Expires=Mon, 06-Dec-2021 19:37:47 GMT; Path=/
+Cache-Control: no-store, no-cache, must-revalidate, private
+Pragma: no-cache
+Expires: 0
+P3P: CP="NON DSP COR CURa ADMa DEVa CUSo TAIa PSDo OUR BUS UNI COM NAV STA"
+Content-Encoding: gzip

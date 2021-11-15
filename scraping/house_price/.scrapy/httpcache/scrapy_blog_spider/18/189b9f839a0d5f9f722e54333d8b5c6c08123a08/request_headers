@@ -1,0 +1,5 @@
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en
+User-Agent: Scrapy/2.5.1 (+https://scrapy.org)
+Accept-Encoding: gzip, deflate
+Cookie: GalileoCookie=YYZ7h6waA-oAAFhKx5cAAACx; ar=030; r2abtest_cid=617c80f4bb243d8acb5e7247815f102890999401; r2abtest_fr="202111070327:TEST_SPFRxxxx,1,TC_A:TEST_SPFR908,1,TC_B"; R2_F_S_1=3890f2b5f56f94ae9b872ec817c5ac5b; R2_F_P_1=1afece5cbb29b2a5
